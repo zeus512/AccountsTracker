@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/ic_search_transactions.jpg",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/ic_search_transactions.jpg"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/cell.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/cell.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/ic_add_transaction.jpg",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/ic_add_transaction.jpg"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/ic_list_accounts.jpg",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/ic_list_accounts.jpg"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/ic_add_account.jpg",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/ic_add_account.jpg"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/ic_recent_transactions.jpg",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/ic_recent_transactions.jpg"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/drawable/datepicker.jpg",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/drawable/datepicker.jpg"
+    }
+]

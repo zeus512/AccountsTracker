@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4873eb320d25a6277201a498800ffd6512baff92">
+        <dex dex="/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_295b225545488956463fd4ca56fb50a089a09e2a/classes.dex" />
+    </item>
+    <item
+        jar="/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d364521b6a2ca3dc2e14a3a1de04503fe9afee0">
+        <dex dex="/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a22e68463d896148842ce37c1a2c698ce305efd/classes.dex" />
+    </item>
+
+</items>

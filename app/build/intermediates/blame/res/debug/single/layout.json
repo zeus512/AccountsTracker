@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/account.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/account.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/transaction_details.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/transaction_details.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/account_transaction.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/account_transaction.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/listaccounts.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/listaccounts.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/list_account_transactions.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/list_account_transactions.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/add_transaction.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/add_transaction.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/search_transactions.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/search_transactions.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/addaccount.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/addaccount.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/update_account.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/update_account.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/transaction.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/transaction.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/accountstracker1/app/build/intermediates/res/merged/debug/layout/list_transactions.xml",
+        "source": "/home/goutham/StudioProjects/accountstracker1/app/src/main/res/layout/list_transactions.xml"
+    }
+]
